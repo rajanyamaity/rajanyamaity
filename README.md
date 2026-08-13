@@ -52,4 +52,4 @@ I'm an Information Technology engineering student at the Government College of E
   <img src="https://github-readme-stats.vercel.app/api?username=rajanyamaity&show_icons=true&theme=radical&hide_border=true" alt="Rajanya's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanyamaity&theme=radical&hide_border=true" alt="Rajanya's GitHub Streak" width="48%" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=rajanyamaity&show_icons=true&theme=radical&hide_border=true&v=1" alt="Rajanya's GitHub Stats" width="48%" />
+
