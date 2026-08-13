@@ -1,4 +1,4 @@
-## Hi there 👋
+#ABOUT ME 
 
 # Hi there, I'm Rajanya Maity 👋
 
